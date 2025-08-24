@@ -3,10 +3,6 @@
  
 
 ## AIM:
- 
-
- 
-
 To write a C program to implement the Playfair Substitution technique.
 
 ## DESCRIPTION:
@@ -89,4 +85,8 @@ int main()
 Output:
 
 <img width="1812" height="687" alt="image" src="https://github.com/user-attachments/assets/babbd54f-45f9-4d32-a46e-8e9aeee5a235" />
+
+RESULT:-
+
+To write a C program to implement the Playfair Substitution technique is successfully completed
 
